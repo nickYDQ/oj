@@ -60,7 +60,7 @@ void HeapSort(vector<int>& A,int l)
 	}
 	for(int j=l;j>0;j--)
 	{
-		swap(A,0,j);
+		swap(A[0],A[j]);
 		HeapAdjust(A,0,j-1);
 	}
 }
