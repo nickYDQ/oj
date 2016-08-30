@@ -5,5 +5,5 @@
 * 二分查找  [Search Insert Position] (https://leetcode.com/problems/search-insert-position/)
 * 二叉树遍历（递归，层次遍历）
 * 动态规划
-* [maximum subarray](https://leetcode.com/problems/maximum-subarray/)
+* [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 * [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
