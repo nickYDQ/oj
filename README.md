@@ -8,5 +8,5 @@
  * [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
  * [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 * 字符串的的排列
- *[Permutations](https://leetcode.com/problems/permutations/)
+ * [Permutations](https://leetcode.com/problems/permutations/)
 
