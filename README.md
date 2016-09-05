@@ -18,6 +18,8 @@
 * 数组中只出现一次的数字
  * [数组中最小的只有一个](https://leetcode.com/problems/single-number/) 
  * 数组中最小的有两个
+* 数组中出现次数查过一半的数字
+ * [Majority Element](https://leetcode.com/problems/majority-element/)  
  
 
  
