@@ -12,7 +12,7 @@
  * [Permutations](https://leetcode.com/problems/permutations/)
 * 用两个栈实现一个队列
  * [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
-* min栈
+* 包含min函数的栈
  * [Min Stack](https://leetcode.com/problems/min-stack/)
 * 最小的k个数
 * 数组中只出现一次的数字
