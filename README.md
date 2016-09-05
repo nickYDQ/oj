@@ -14,6 +14,11 @@
  * [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 * min栈
  * [Min Stack](https://leetcode.com/problems/min-stack/)
+* 最小的k个数
+* 数组中只出现一次的数字
+ * [数组中最小的只有一个](https://leetcode.com/problems/single-number/) 
+ * 数组中最小的有两个
+ 
 
  
 
