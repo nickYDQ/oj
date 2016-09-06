@@ -1,4 +1,4 @@
-//method1£ºbased on function partition
+//method1Â£Âºbased on function partition
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -41,7 +41,7 @@ void GetLeastNumber(vector<int>& nums,int k)
         }
         else
         {
-           r = index-1;
+            r = index-1;
             index = partition(nums,l,r); 
         }
     }
