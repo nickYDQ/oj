@@ -20,7 +20,7 @@
  * 数组中最小的有两个
 * 数组中出现次数查过一半的数字
  * [Majority Element](https://leetcode.com/problems/majority-element/) 
-* 翻转单词 
+* 反转单词 
  * [Reverse String](https://leetcode.com/problems/reverse-string/)
  * [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
  
