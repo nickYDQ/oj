@@ -22,6 +22,7 @@
  * [Majority Element](https://leetcode.com/problems/majority-element/) 
 * 翻转单词 
  * [Reverse String](https://leetcode.com/problems/reverse-string/)
+ * [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
  
 
  
