@@ -24,7 +24,7 @@
  * [Reverse String](https://leetcode.com/problems/reverse-string/)
  * [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 * 二叉树的镜像
- *[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/ )
+ * [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/ )
  
  
 
