@@ -28,6 +28,8 @@
 * 二叉树的深度
  * [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 * [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) 
+* 字符串
+ * [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
  
  
