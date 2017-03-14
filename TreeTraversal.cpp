@@ -19,6 +19,27 @@ vector<int> preorderTraversal(TreeNode* root)
         preorder(root,result);
         return result;
 }
+void preOrder2(BinTree *root)     //非递归前序遍历 
+{
+    stack<BinTree*> s;
+    BinTree *p=root;
+    while(p!=NULL||!s.empty())
+    {
+        while(p!=NULL)
+        {
+            cout<<p->data<<" ";
+            s.push(p);
+            p=p->lchild;
+        }
+        if(!s.empty())
+        {
+            p=s.top();
+            s.pop();
+            p=p->rchild;
+        }
+    }
+}
+
 
 //levelTraversal
 vector<vector<int>> levelOrder(TreeNode* root)
