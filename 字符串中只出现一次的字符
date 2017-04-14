@@ -7,7 +7,7 @@ public:
             return -1;
         }
 
-        vector<int> Hashtable(100,0);
+        vector<int> Hashtable( 'z'-'A'+1,0);
         for(int i =0;i<length;i++)
         {
         	Hashtable[str[i]-'A']++;
