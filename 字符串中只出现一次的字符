@@ -1,0 +1,25 @@
+class Solution {
+public:
+    int FirstNotRepeatingChar(string str) {
+        int length = str.size();
+        if(length<1||length>10000)
+        {
+            return -1;
+        }
+
+        vector<int> Hashtable(100,0);
+        for(int i =0;i<length;i++)
+        {
+        	Hashtable[str[i]-'A']++;
+        }
+        for(int i =0;i<length;i++)
+        {
+           if(Hashtable[str[i]-'A']==1)
+           {
+               return i;    
+           }
+        }
+        return -1;
+        
+    }
+};
