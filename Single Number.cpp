@@ -6,7 +6,7 @@ public
             return 0;
         }
         int x = nums[0];
-        for(int i = 1;inums.size();i++)
+        for(int i = 1;i<nums.size();i++)
         {
             x = x^nums[i];
             
