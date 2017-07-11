@@ -1,6 +1,6 @@
 class Solution {
 public
-    int singleNumber(vectorint& nums) {
+    int singleNumber(vector<int>& nums) {
         if(nums.size()=0)
         {
             return 0;
